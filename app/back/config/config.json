@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "dev",
+    "password": "dev",
+    "database": "study",
+    "host": "mysql",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "dev",
+    "password": "dev",
+    "database": "to_do_list",
+    "host": "mysql",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "dev",
+    "password": "dev",
+    "database": "to_do_list",
+    "host": "mysql",
+    "dialect": "mysql"
+  }
+}
